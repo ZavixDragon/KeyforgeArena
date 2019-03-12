@@ -1,0 +1,138 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Cards",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Back",
+            "Value": "Cards/king-of-the-islands.png"
+        },
+        {
+            "Type": "AddImages",
+            "Count": "3",
+            "Front": "Cards/gurads.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "3",
+            "Front": "Cards/warrior-.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "3",
+            "Front": "Cards/architect-dig.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "3",
+            "Front": "Cards/task-manager.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "3",
+            "Front": "Cards/looking-for-some-thing.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "3",
+            "Front": "Cards/time-hold.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/servents.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/speed-up.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/set-back-the-clock.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/killing-time.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/ageing.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/follow-the-letter.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/architect-thief.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/blood-queen.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/courage.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/dr.-doom.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/ganondorf.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/like-a-boss.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/power.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/wisdom.png",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/time-breaker.png",
+            "Range": { "Type": "Single" }
+        }
+    ]
+}
