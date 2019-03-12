@@ -1,0 +1,144 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Cards",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Back",
+            "Value": "nash-sacrificer-of-demonic-elements.jpg"
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/air-elemental.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/altar-of-blood.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/blood-cultist.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/blood-sacrifice.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/bloodthirsty.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/bloodthirsty-demon.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/chain-lightning.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/crown-of-domination.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/cult-recruiter.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/demonic-trade.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/demon-of-greed.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/demon-summoner.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/doomsayer.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/earth-elemental.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/fire-elemental.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/mischievous-imp.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/mob-frenzy.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/nature-elemental.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "1",
+            "Front": "Cards/overgrown-shrine.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/overwhelming-demon.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/renewing-growth.jpg",
+            "Range": { "Type": "Single" }
+        },
+        {
+            "Type": "AddImages",
+            "Count": "2",
+            "Front": "Cards/succubus.jpg",
+            "Range": { "Type": "Single" }
+        }
+    ]
+}
