@@ -1,0 +1,22 @@
+{
+    "SavePath": "Prints",
+    "SaveName": "Cards",
+    "Images": 
+    [
+        {
+            "Type": "Set",
+            "Key": "Count",
+            "Value": "1"
+        },
+        {
+            "Type": "Set",
+            "Key": "Back",
+            "Value": "Cards/CardBack.png"
+        },
+        {
+            "Type": "AddImages",
+            "Front": "Cards/Card.png",
+            "Range": { "Type": "Range", "Range": { "Start": 1, "End": 36 } }
+        }
+    ]
+}
